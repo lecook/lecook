@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Laura 
 - I’m a wet lab biologist dabbling in computational biology, coding in Python, R and bash.
 - I'm interested in enhancer grammar, developmental biology, marsupials and functional genomics.
-- Currently working on my PhD in marsupial genomics studying convergent evolution of the extinct Tasmanian tiger and placental canids.
-- 📫 lecook@student.unimelb.edu.au
+- PhD in marsupial genomics studying convergent evolution of the extinct Tasmanian tiger and placental canids.
+- Currently a Postdoc at Lawrence Berkeley National Lab.
+- 📫 lecook@lbl.gov

@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Laura 
-- I’m a wet lab biologist dabbling in computational biology, coding in Python, R and bash.
+- I’m a wet lab biologist dabbling in computational biology.
 - I'm interested in enhancer grammar, developmental biology, marsupials and functional genomics.
-- PhD in marsupial genomics studying convergent evolution of the extinct Tasmanian tiger and placental canids.
 - Currently a Postdoc at Lawrence Berkeley National Lab.
 - 📫 lecook@lbl.gov
